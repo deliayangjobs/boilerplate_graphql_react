@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "40",
+      "firstName": "Alewx jsidfo",
+      "age": 40,
+      "companyId": "2"
+    },
+    {
+      "id": "41",
+      "firstName": "Nick",
+      "age": 41,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Stephn",
+      "age": 22,
+      "id": "iu4BqFY"
+    },
+    {
+      "firstName": "Stephn",
+      "age": 22,
+      "id": "~ZuaAmo"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    }
+  ]
+}
